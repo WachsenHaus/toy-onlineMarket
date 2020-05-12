@@ -1,0 +1,109 @@
+var storeData = {
+    clothes : [
+        {
+            color : "pink",
+            size : "small",
+            part : 'shirt'
+        },
+        {
+            color : "yellow",
+            size : "small",
+            part : 'pants'
+        },
+        {
+            color : "pink",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "blue",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "pink",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "pink",
+            size : "large",
+            part : 'pants'
+        },
+        {
+            color : "blue",
+            size : "large",
+            part : 'pants'
+        },
+        {
+            color : "pink",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "blue",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "blue",
+            size : "large",
+            part : 'pants'
+        },
+        {
+            color : "pink",
+            size : "large",
+            part : 'pants'
+        },
+        {
+            color : "blue",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "pink",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "yellow",
+            size : "large",
+            part : 'pants'
+        },
+        {
+            color : "yellow",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "yellow",
+            size : "large",
+            part : 'pants'
+        },
+        {
+            color : "yellow",
+            size : "small",
+            part : 'pants'
+        },
+        {
+            color : "pink",
+            size : "large",
+            part : 'skirt'
+        },
+        {
+            color : "blue",
+            size : "small",
+            part : 'skirt'
+        },
+        {
+            color : "pink",
+            size : "small",
+            part : 'skirt'
+        },
+        {
+            color : "pink",
+            size : "small",
+            part : 'skirt'
+        },
+    ]
+}
