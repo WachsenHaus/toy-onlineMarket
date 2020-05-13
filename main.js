@@ -239,7 +239,7 @@ function paintStoreItem(part, size, color, sex) {
     storeList.appendChild(li);
   }
   // 옷의 종류나 색상이 선택될경우 해당 조건의 상점 데이터만 출력한다.
-  if (typePicker === null || colorPicker === null) {
+  else if (typePicker === null || colorPicker === null) {
     if (typePicker === part) {
       storeList.appendChild(li);
     }
